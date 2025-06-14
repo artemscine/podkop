@@ -19,7 +19,7 @@ https://podkop.net/
 
 Вкратце, достаточно одного скрипта для установки и обновления:
 ```
-sh <(wget -O - https://raw.githubusercontent.com/itdoginfo/podkop/refs/heads/main/install.sh)
+sh <(wget -O - https://raw.githubusercontent.com/artemscine/podkop/refs/heads/main/install.sh)
 ```
 
 # ToDo

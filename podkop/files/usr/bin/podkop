@@ -5,8 +5,8 @@
 
 config_load "/etc/config/podkop"
 
-GITHUB_RAW_URL="https://raw.githubusercontent.com/itdoginfo/allow-domains/main"
-SRS_MAIN_URL="https://github.com/itdoginfo/allow-domains/releases/latest/download"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/artemscine/allow-domains/main"
+SRS_MAIN_URL="https://github.com/artemscine/allow-domains/releases/latest/download"
 DOMAINS_RU_INSIDE="${GITHUB_RAW_URL}/Russia/inside-dnsmasq-nfset.lst"
 DOMAINS_RU_OUTSIDE="${GITHUB_RAW_URL}/Russia/outside-dnsmasq-nfset.lst" 
 DOMAINS_UA="${GITHUB_RAW_URL}/Ukraine/inside-dnsmasq-nfset.lst"
